@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\CSHARP\HelloHunny\bin\Debug\net6.0\HelloHunny.exe
+C:\Users\Admin\Documents\CSHARP\HelloHunny\bin\Debug\net6.0\HelloHunny.deps.json
+C:\Users\Admin\Documents\CSHARP\HelloHunny\bin\Debug\net6.0\HelloHunny.runtimeconfig.json
+C:\Users\Admin\Documents\CSHARP\HelloHunny\bin\Debug\net6.0\HelloHunny.dll
+C:\Users\Admin\Documents\CSHARP\HelloHunny\bin\Debug\net6.0\HelloHunny.pdb
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.dll
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\refint\HelloHunny.dll
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.pdb
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\HelloHunny.genruntimeconfig.cache
+C:\Users\Admin\Documents\CSHARP\HelloHunny\obj\Debug\net6.0\ref\HelloHunny.dll
